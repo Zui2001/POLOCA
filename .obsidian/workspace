@@ -120,8 +120,17 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "20de9becd2743bf6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
